@@ -18,6 +18,9 @@ brew install bat
 brew install tree
 brew install wget
 brew install trash
+
+# JS Development
+brew install node
 ```
 
 ## Code editors
