@@ -35,6 +35,7 @@ brew cask install visual-studio-code
 * **Settings Sync.** Keep synced all your extensions and setting in all the machines where you use visual studio code.
 * **Intellij IDEA keybindings** Since I use intellij a lot this extension allows me to use the shortcuts I am already used to.
 * **CodeSnap** Useful to take screenshots of pieces of our code that we can share as an image.
+* **Prettier** Code formatter.
 
 #### Themes
 * Dracula
