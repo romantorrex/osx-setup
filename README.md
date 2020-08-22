@@ -36,6 +36,7 @@ brew cask install visual-studio-code
 * **Intellij IDEA keybindings** Since I use intellij a lot this extension allows me to use the shortcuts I am already used to.
 * **CodeSnap** Useful to take screenshots of pieces of our code that we can share as an image.
 * **Prettier** Code formatter.
+* **Bracket Pair Colorizer** Highlights brackets with colors.
 
 #### Themes
 * Dracula
