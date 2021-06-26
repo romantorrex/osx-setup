@@ -19,6 +19,8 @@ To make my shell a little bit prettier I use the free version of [Dracula Theme]
 And finally you have to **activate the dracula theme** by going to your `~/.zshrc` file and set `ZSH_THEME="dracula"`.
 
 ## Script
+A script to get most of the tools installed at once.
+
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
