@@ -1,7 +1,7 @@
-# README
-These are the apps that I have installed on my personal computer.
+<h1 align="center">My Mac OSX Setup</h1>
+<p align="center">This is documentation for my future self. Describes the tools that I use in my daily work and how to install/configure them in a computer with MAC OSX.</p>
 
-## Shell
+##  Shell
 I work with zsh, the default shell in Mac OSX. I use  [Oh My Zsh](https://ohmyz.sh/) to manage its configuration, plugins and themes. You have to install **Oh My Zsh** via command line as follows:
 
 ```
