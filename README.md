@@ -1,6 +1,23 @@
 # README
 These are the apps that I have installed on my personal computer.
 
+## Shell
+I work with zsh, the default shell in Mac OSX. I use  [Oh My Zsh](https://ohmyz.sh/) to manage its configuration, plugins and themes. You have to install **Oh My Zsh** via command line as follows:
+
+```
+> sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+To make my shell a little bit prettier I use the free version of [Dracula Theme](https://draculatheme.com/zsh). To install dracula zsh theme using Oh My Zsh run these commands one by one:
+
+```
+> git clone https://github.com/dracula/zsh.git dracula-zsh
+> DRACULA_ZSH_THEME=$PWD/dracula-zsh
+> ln -s $DRACULA_ZSH_THEME/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
+```
+
+And finally you have to **activate the dracula theme** by going to your `~/.zshrc` file and set `ZSH_THEME="dracula"`.
+
 ## Script
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
